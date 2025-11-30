@@ -1,2 +1,2 @@
-py# -raspberry-20251026-johnson-13
+# raspberry-20251026-johnson-13
 樹梅派
