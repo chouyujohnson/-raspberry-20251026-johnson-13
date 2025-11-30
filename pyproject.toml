@@ -5,6 +5,7 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
+    "flask>=3.1.2",
     "ipykernel>=7.1.0",
     "paho-mqtt>=1.6.0",
     "streamlit>=1.28.0",
